@@ -29,7 +29,7 @@
           <div class="container">
               <div class="row">
                   <div class="col-12">
-                      <p>Pectroleum Investment Company &copy; All Right Reserved, 2020</p>
+                      <p>Courage Earners Company &copy; All Right Reserved, 2020</p>
                   </div>
               </div>
           </div>
