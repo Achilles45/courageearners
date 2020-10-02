@@ -14,7 +14,7 @@
                  <h6><i class="fa fa-envelope"></i>Email Address</h6>
                 <p>courageearners@gmail.com</p>
                  <h6><i class="fa fa-phone"></i>Phone</h6>
-                <p><a href="tel:081039481338"> 081039481338</a></p>
+                <p><a href="tel:07049670602"> 07049670602</a></p>
               </div>
               <div class="col-md-4">
                   <h5>Payment Method</h5>
